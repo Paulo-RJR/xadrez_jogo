@@ -18,7 +18,7 @@ Como se trata de um Jogo de Xadrez, este deverá ser jogado por dois jogadores e
 O que deverá ser mostrado:
 
 - O Tabuleiro completo (contendo - para local vazio, número de linhas e letras para as colunas);  
-- Todas as peças (para os jogadores um e dois)já posicionadas no Tabuleiro;  
+- Todas as peças (para os jogadores um e dois) já posicionadas no Tabuleiro;  
 - Os turnos das jogadas;
 - As peças capturadas pelos jogadores;
 - Qual jogador esta realizando a jogada atual;
