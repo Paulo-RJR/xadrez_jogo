@@ -7,13 +7,13 @@
 
 ## Projeto - Jogo de Xadrez:
 
-Construir em modo console um jogo de Xadrez, o qual contém um Tabuleiro com oito linhas: (1, 2, 3, 4, 5, 6, 7, 8) e oito colunas: (a, b, c, d, e, f,    
-g, h), contendo as peças: (Peão, Torre, Cavalo, Bispo, Rei e Rainha) as quais devem possuir duas cores diferentes uma para o jogador-1 e outra  
+Construir em modo console um jogo de Xadrez, o qual contém um Tabuleiro com oito linhas: (1, 2, 3, 4, 5, 6, 7, 8) e oito colunas: (a, b, c, d, e, f,
+g, h), contendo as peças: (Peão, Torre, Cavalo, Bispo, Rei e Rainha) as quais devem possuir duas cores diferentes uma para o jogador-1 e outra
 para o jogador-2.  
-Cada peça possui um movimento próprio para usar dentro do Tabuleiro, o qual deverá ser executado neste jogo e também algumas jogadas   
-expeciais como **En Passant**, **Castling King** e **Promotion**. Também deverá apresentar um marcador colorido matrando qual é o movomento   
-possivel para cada peça, segundo sua regra de movimentação e deve ser usado (-), quando não houver nenhuma peça na posição.    
-Como se trata de um Jogo de Xadrez, este deverá ser jogado por dois jogadores em turnos, que se seguirá até que aja um vencedor.  
+Cada peça possui um movimento próprio para usar dentro do Tabuleiro, o qual deverá ser executado neste jogo e também algumas jogadas
+expeciais como **En Passant**, **Castling King** e **Promotion**. Também deverá apresentar um marcador colorido matrando qual é o movomento 
+possivel para cada peça, segundo sua regra de movimentação e deve ser usado (-), quando não houver nenhuma peça na posição.
+Como se trata de um Jogo de Xadrez, este deverá ser jogado por dois jogadores em turnos, que se seguirá até que aja um vencedor.
 
 O que deverá ser mostrado:
 
